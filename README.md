@@ -14,7 +14,7 @@ This is an interactive 3D scatterplot of Galton's Heights dataset containing chi
 
 ### Question 3
 
-This is an interactive chloropleth map of each department's population in France in 2013.
+This is an interactive chloropleth map of each departments' population in France in 2013.
 <iframe src='france-fig.html' width=800 height=600 frameBorder=0></iframe>
 
 
