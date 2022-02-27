@@ -1,6 +1,6 @@
 # Homework 6 for History of Data Science, Winter 2022 @ UC San Diego.
 
-###### Serena Xie (scxie@ucsd.edu)
+#### Serena Xie (scxie@ucsd.edu)
  
 ### Question 1
 
