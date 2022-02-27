@@ -5,6 +5,7 @@
 ###Question 1
 
 This is an interactive and modern google maps recreation of John Snows Cholera Death map.
+<iframe src='../snow-map.html' width=800 height=600 frameBorder=0></iframe>
 
 ###Question 2
 
